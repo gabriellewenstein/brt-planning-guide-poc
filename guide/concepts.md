@@ -1,6 +1,6 @@
 #[Intersections and traffic signals](toc.md#toc)
 
-## Basic Concepts
+## Concepts
 
 **"Change means movement. Movement means friction. Only in the frictionless vacuum of a non-existent abstract world can movement or change occur without that abrasive friction of conflict."** - Saul Alinsky, political activist, 1909 – 1972
 
